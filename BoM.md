@@ -4,8 +4,8 @@ This time we will not use a microprocessor.
 
 ### Must have
 
-|#|Amount|Description|Supplier NL|Cost|
-|-:|----:|:---------|:-------|---:|
+|No|Amount|Description|Supplier NL|Cost|
+| ------------: | ------------: | :------------ | :------------ | ------------: |
 |2|1|3mm MDF|Houthandel Schmidt|3.00|
 |3|1|Power switch|[iPrototype](https://iprototype.nl/products/components/buttons-switches/rocker-switch-large)|0.95|
 |4|1|White LED|[iPrototype](https://iprototype.nl/products/components/led-lcd/ledwit), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=9088)|0.52|
@@ -13,8 +13,7 @@ This time we will not use a microprocessor.
 |6|1|7.5 W power supply|[iPrototype](https://iprototype.nl/products/accessoires/power/adapter), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=11642)|13.95|
 |7|1|Jack Adapter|link|price|
 |8|4|35 mm focal length convex lens (*1)|[ScienceStore](http://www.sciencestore.co.uk/acatalog/Optical_Components.html), [GreenWeld](http://www.greenweld.co.uk/acatalog/Shop_Lenses_202.html)|1.25|
-|--|--|---|---|---|
-|||*Total costs*||**|
+
 
 * You will also need some M3 10 mm and 30 mm bolts and nuts
 
