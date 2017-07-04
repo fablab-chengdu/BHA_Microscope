@@ -1,17 +1,17 @@
-## Bill of Materials
+## 材料清单
 
-Make sure you have big enough sheets of 3mm material to cut the design from and plenty of wires and M3 10 screws and nuts to assemble all the parts.
+确保你有足够用来激光切割的3mm木板、大量的电线和组装用的M3 10螺丝螺母。
 
-### Must have
+### 必备
 
-|No|Amount|Description|Supplier NL|Cost|
+|序号|数量|组件|来源|花费|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
-|1|1|Power switch|[Farnell](http://nl.farnell.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=15001&langId=31&urlRequestType=Base&partNumber=4710368&storeId=10168), [iPrototype](https://iprototype.nl/products/components/buttons-switches/rocker-switch-large)|0.71|
-|2|1|White 5mm LED|[iPrototype](https://iprototype.nl/products/components/led-lcd/ledwit), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=9088), [Hackerstore](https://www.hackerstore.nl/Artikel/257)|0.18|
-|3|1|220 Ohm resistor|[Farnell](http://nl.farnell.com/multicomp/mcf-0-25w-220r/resistor-carbon-film-220r-0-25w/dp/9339299?Ntt=9339299), [iPrototype](https://iprototype.nl/products/components/resistors/220R), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=7085)|0.02
-|4|1|7.5 W power supply|[iPrototype](https://iprototype.nl/products/accessoires/power/adapter), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=11642)|13.95|
-|5|1|DC Jack Adapter|[Farnell](http://nl.farnell.com/multicomp/jr1819-rohs-psg01769/socket-low-voltage-2-1mm-chassis/dp/1216726), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=14342)|0.85|
-|6|4|35 mm focal length convex lens (*1)|[ScienceStore](http://www.sciencestore.co.uk/acatalog/Optical_Components.html), [GreenWeld](http://www.greenweld.co.uk/acatalog/Shop_Lenses_202.html)|1.25|
+|1|1|16A 125V/16A 250V 船型电源开关|[淘宝](https://s.taobao.com/search?q=16A+125V%E8%88%B9%E5%9E%8B%E7%94%B5%E6%BA%90%E5%BC%80%E5%85%B3&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20170703)|￥2|
+|2|1|白色5mm LED|[淘宝](https://s.taobao.com/search?q=%E7%99%BD%E8%89%B25mm+LED&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20170703&ie=utf8)|￥0.056|
+|3|1|3W 220Ω 电阻|[淘宝](https://s.taobao.com/search?q=3W+220%E6%AC%A7%E7%94%B5%E9%98%BB&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20170703&ie=utf8)|￥0.2|
+|4|1|12V 1A 电源适配器|[淘宝育松](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.21.7a787e4fGkv6uA&id=3430506269)|￥4.99|
+|5|1|2.1mm (5.5mm) 电源端子|[淘宝育松](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.9.f0ce84a6IUTJK&id=542227442516)|￥0.5|
+|6|4|F=35mm 凸透镜|[淘宝](https://item.taobao.com/item.htm?spm=a230r.1.14.16.ebb2eb2n30bY8&id=15503627973&ns=1&abbucket=9#detail)|￥3|
 
 
 > (*1) 35 mm focal length lenses can also be found in single use cameras, available anywhere like [Kruidvat](https://www.kruidvat.nl/agfaphoto-lebox-flash-camera/p/2224083) EUR 5.89 or you could simply ask a shop to save the used cameras for you.
@@ -21,3 +21,4 @@ Make sure you have big enough sheets of 3mm material to cut the design from and 
 * You can often find sweet deals for microscope objectives on eBay
 * Professional lens suppliers are [Thorlabs](http://www.thorlabs.com), [Knight](http://www.knightoptical.com/) and [Edmund](http://www.edmundoptics.com)
 
+35 mm 焦距凸透镜可以在一般相机上找到，你也可以买来二手相机。
