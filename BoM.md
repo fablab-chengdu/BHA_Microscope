@@ -13,12 +13,11 @@
 |5|1|2.1mm (5.5mm) 电源端子|[淘宝育松](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14787471870.9.f0ce84a6IUTJK&id=542227442516)|￥0.5|
 |6|4|F=35mm 凸透镜|[淘宝](https://item.taobao.com/item.htm?spm=a230r.1.14.16.ebb2eb2n30bY8&id=15503627973&ns=1&abbucket=9#detail)|￥3|
 
-
 > (*1) 35 mm focal length lenses can also be found in single use cameras, available anywhere like [Kruidvat](https://www.kruidvat.nl/agfaphoto-lebox-flash-camera/p/2224083) EUR 5.89 or you could simply ask a shop to save the used cameras for you.
+
+35 mm 焦距凸透镜可以在一般相机上找到，你也可以买来二手相机。
 
 **Alternatives**
 
 * You can often find sweet deals for microscope objectives on eBay
 * Professional lens suppliers are [Thorlabs](http://www.thorlabs.com), [Knight](http://www.knightoptical.com/) and [Edmund](http://www.edmundoptics.com)
-
-35 mm 焦距凸透镜可以在一般相机上找到，你也可以买来二手相机。
